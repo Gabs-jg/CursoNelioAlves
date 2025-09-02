@@ -1,3 +1,5 @@
+package Seção5;
+
 import java.util.Scanner;
 
 public class PositivoOuNegativo {

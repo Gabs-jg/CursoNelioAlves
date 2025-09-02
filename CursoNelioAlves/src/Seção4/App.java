@@ -1,3 +1,5 @@
+package Seção4;
+
 import java.util.Locale;
 
 public class App {

@@ -1,3 +1,5 @@
+package Seção4;
+
 import java.util.Scanner;
 
 public class Soma {
@@ -8,7 +10,7 @@ public class Soma {
         System.out.print("Digite outro número inteiro para somar: ");
         int n2 = sc.nextInt();
         int soma = n1 + n2;
-        System.out.println("Soma = " + soma);
+        System.out.println("Seção4.Soma = " + soma);
         sc.close();
     }
 }
