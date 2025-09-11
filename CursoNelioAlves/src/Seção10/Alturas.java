@@ -25,9 +25,9 @@ public class Alturas {
             double height = sc.nextDouble();
 
             vect[i] = new People(name, age, height);
-            sum += vect[i].getHeight();
+            sum += height;
 
-            if (vect[i].getAge() < 16) {
+            if (age < 16) {
                 ageUnderSixteen++;
             }
         }
